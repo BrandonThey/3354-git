@@ -9,6 +9,9 @@ public class Main {
         } catch (Exception e) {
             System.err.println("Please provide three integers to add");
         }
+	  catch (Exception e){
+	    System.err.println("Error: Less than 3 integers");
+	}
     }
 
     private static int addArguments(String[] args) {
