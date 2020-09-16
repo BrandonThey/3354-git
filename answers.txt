@@ -1,0 +1,8 @@
+(a) There are 7 commits in the repository history
+(b) The file ".gitignore" was added on Tuesday, January 24, 2017
+(c) git status presents the current state of the directory and the staging area, while git log shows the previous commited project history.
+(d) An untracked file is one that is not part of the git repository and will not be recorded unless pushed, while an unstaged file is a file that is in the git repository but has not been recorded into the history yet.
+(e) git reset, resets the staging of modified files, while checkout discards
+changes to unstaged files
+(f) Git will not allow you to pull without committing changes
+
